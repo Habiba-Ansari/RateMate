@@ -4,7 +4,7 @@ RateMate is a next-gen dating app built with **Flutter** and **Firebase**, combi
 
 ![App Logo](assets/icon.png)
 ![App Logo](assets/screen1.jpg)
-![App Logo](assets/screen2.jpg)
+![App Logo](assets/sceen2.jpg)
 
 ---
 
