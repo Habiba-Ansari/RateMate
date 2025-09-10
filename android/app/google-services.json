@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1002830167128",
+    "project_id": "ratemate-dating-app",
+    "storage_bucket": "ratemate-dating-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002830167128:android:d5afff77b598516df25e2d",
+        "android_client_info": {
+          "package_name": "com.example.ratemate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002830167128-5v4d5bmi3oh3jmdh6208a8ptehlvd5tv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo_GcjQScI421MB1jxoyuxMB1ZKpFtAsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002830167128-5v4d5bmi3oh3jmdh6208a8ptehlvd5tv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

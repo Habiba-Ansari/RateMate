@@ -1,0 +1,54 @@
+name: ratemate
+description: "A new Flutter project."
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.7.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+    
+  cupertino_icons: ^1.0.8
+  font_awesome_flutter: ^10.4.0
+  flutter_svg: ^2.1.6
+
+  # Firebase
+  firebase_core: ^3.6.0
+  firebase_auth: ^5.3.3
+  cloud_firestore: ^5.4.4
+  firebase_storage: ^12.3.4
+
+  # State management
+  provider: ^6.1.2
+
+  # Chat & Media
+  flutter_chat_ui: ^1.6.15
+  image_picker: ^1.1.2
+  audioplayers: ^6.1.0
+  flutter_xlider: ^3.5.0
+
+  # Google Fonts
+  google_fonts: ^4.0.3
+
+  # Recommended additional packages
+  cached_network_image: ^3.3.2
+  fluttertoast: ^8.2.4
+  shared_preferences: ^2.2.2
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.13.1
+
+# flutter_icons:
+#   android: true
+#   ios: true
+#   image_path: "assets/icon.png"
+
+
+flutter:
+  uses-material-design: true
