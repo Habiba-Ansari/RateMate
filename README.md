@@ -2,9 +2,9 @@
 
 RateMate is a next-gen dating app built with **Flutter** and **Firebase**, combining anonymous ratings with smart matchmaking. Users can rate profiles, improve their own, and discover compatible matches through a fun, interactive experience.  
 
-![App Logo](assets/logo.png)
-![App Logo](assets/screen1.png)
-![App Logo](assets/screen2.png)
+![App Logo](assets/icon.png)
+![App Logo](assets/screen1.jpg)
+![App Logo](assets/screen2.jpg)
 
 ---
 
